@@ -11,6 +11,6 @@ for(let value of a) {
         odd += value;
     }
 }
-console.log(a);
-console.log(even);
-console.log(odd);
+alert(a);
+alert("even: " + even);
+alert("odd: " + odd);
